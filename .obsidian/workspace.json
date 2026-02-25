@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pattern/무제.md",
+                "file": "pattern/Proxy Pattern.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "무제"
+              "title": "Proxy Pattern"
             }
           }
         ]
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pattern/무제.md",
+                "file": "pattern/Proxy Pattern.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "무제 의 개요"
+              "title": "Proxy Pattern 의 개요"
             }
           },
           {
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pattern/무제.md",
+                "file": "pattern/Proxy Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "무제 의 백링크"
+              "title": "Proxy Pattern 의 백링크"
             }
           },
           {
@@ -211,12 +211,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pattern/무제.md",
+                "file": "pattern/Proxy Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "무제 의 나가는 링크"
+              "title": "Proxy Pattern 의 나가는 링크"
             }
           },
           {
@@ -258,8 +258,10 @@
   },
   "active": "4c12ebf826535ae7",
   "lastOpenFiles": [
+    "pattern/Observer Pattern.md",
+    "pattern/Proxy Pattern.md",
+    "pattern/MVC Pattern.md",
     "Infra/Nginx.md",
-    "pattern/무제.md",
     "pattern",
     "styles/Checkbox Style.md",
     "Pasted image 20260225175123.png",
