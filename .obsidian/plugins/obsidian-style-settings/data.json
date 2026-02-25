@@ -50,7 +50,7 @@
   "baseline-style@@tab-stacked-spine-orientation": "tab-stack-top",
   "baseline-style@@tab-stacked-spine-order": "row",
   "baseline-style@@tab-top-left-style": "tab-top-left-stacked",
-  "baseline-style@@tab-top-right-style": "tab-top-right-icon",
+  "baseline-style@@tab-top-right-style": "tab-top-right-dropdown",
   "baseline-style@@tab-right-style": "tab-right-labeled",
   "baseline-style@@tab-left-style": "tab-left-icon",
   "baseline-style@@nav-action": "nav-action-center",
