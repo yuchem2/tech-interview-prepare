@@ -6,7 +6,7 @@
       {
         "id": "e21e5785b8993c7c",
         "type": "tabs",
-        "dimension": 65.04213997801392,
+        "dimension": 76.16822429906543,
         "children": [
           {
             "id": "4c12ebf826535ae7",
@@ -37,7 +37,7 @@
       {
         "id": "450842a9823e582c",
         "type": "split",
-        "dimension": 34.95786002198607,
+        "dimension": 23.83177570093458,
         "children": [
           {
             "id": "d140b14062e87f3d",
@@ -186,13 +186,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pattern/MVC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MVC 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -201,7 +200,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pattern/MVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +209,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "MVC 의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -220,12 +218,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pattern/MVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "MVC 의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
@@ -265,11 +262,11 @@
       "markdown-importer:마크다운 형식 불러오기 열기": true
     }
   },
-  "active": "4c12ebf826535ae7",
+  "active": "779936926af65bf2",
   "lastOpenFiles": [
+    "Pattern/MVC.md",
     "Pattern/Proxy.md",
     "Pattern/Observer.md",
-    "Pattern/MVC.md",
     "Infra/Nginx.md",
     "Infra/Proxy Server.md",
     "styles/Checkbox Style.md",
