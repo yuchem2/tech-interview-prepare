@@ -8,7 +8,34 @@
 여러 가지 방법이 있지만, 대표적으로 JS의 [프록시 객체](Proxy.md)를 활용하여 구현할 수 있습니다. 프록시 객체를 통해 객체의 속성이나 메서드 변화 등을 감지하고 이를 미리 설정해 놓은 옵저버들에게 전달하는 방법으로 구현할 수 있습니다.
 
 ```Javascript
-const handler = {
-	g
+function createReactiveObject(target, callback) {
+	const proxy = new Proxy(target, {
+		set(obj, prop, value) {
+			if (value !== obj[prop]) {
+				const prev = obj[prop];
+				obj[prop] = value;
+				callback(`${prop}가 [${prev}] >> [${value}]로 변경되었습니다.`);
+			}
+			return true;
+		}
+	})
+	return proxy;
 }
+
+const a = {
+	"형규": "솔로"
+};
+
+const b = createReactiveObject(a, console.log);
+b.형규 = "솔로";
+b.형규 = "커플";
+// 형규가 [솔로] >> [커플]로 변경되었습니다.
 ```
+
+프록시 객체의 `set()` 함수가 속성에 대한 접근을 가로채, 형규라는 속성이 솔로에서 커플로 변경되는 것을 감지하여 이를 등록된 `callback`(옵저버)인 `console.log`가 변경사항을 출력할 수 있습니다.
+
+> Q: 현재 작성하거나 예시로 보여준 코드에서는 객체와 알림 로직이 강하게 결합되어 있는데 어떻게 분리할 수 있을까요?
+> 
+> Q: 만약 콜백(옵저버)가 여러 개라면 어떻게 해야할까요?
+
+위의 코
