@@ -8,6 +8,6 @@
   "baseFontSize": 18,
   "theme": "system",
   "showViewHeader": true,
-  "showRibbon": false,
+  "showRibbon": true,
   "nativeMenus": false
 }

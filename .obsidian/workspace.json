@@ -26,14 +26,14 @@
         ]
       },
       {
-        "id": "8503132af3b4e7aa",
+        "id": "450842a9823e582c",
         "type": "split",
         "dimension": 21.181172291296626,
         "children": [
           {
             "id": "d140b14062e87f3d",
             "type": "tabs",
-            "dimension": 56.685633001422474,
+            "dimension": 50.56899004267426,
             "children": [
               {
                 "id": "779936926af65bf2",
@@ -48,12 +48,12 @@
             ]
           },
           {
-            "id": "4a502bcc3fd237b5",
+            "id": "b51fc30948aecca4",
             "type": "tabs",
-            "dimension": 43.314366998577526,
+            "dimension": 49.43100995732574,
             "children": [
               {
-                "id": "052f67fc369e59cc",
+                "id": "07b3aa859ebc381d",
                 "type": "leaf",
                 "state": {
                   "type": "git-view",
@@ -152,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Infra/Nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "Nginx 의 백링크"
             }
           },
           {
@@ -170,11 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Infra/Nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "Nginx 의 나가는 링크"
             }
           },
           {
@@ -205,19 +207,9 @@
               "icon": "lucide-archive",
               "title": "모든 속성"
             }
-          },
-          {
-            "id": "c8f9b710529fef2c",
-            "type": "leaf",
-            "state": {
-              "type": "footnotes",
-              "state": {},
-              "icon": "lucide-file-signature",
-              "title": "각주"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -231,7 +223,6 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "smart-random-note:Open Random Note from Search": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
@@ -240,7 +231,7 @@
       "markdown-importer:마크다운 형식 불러오기 열기": false
     }
   },
-  "active": "c8f9b710529fef2c",
+  "active": "779936926af65bf2",
   "lastOpenFiles": [
     "Infra/Nginx.md",
     "Infra",

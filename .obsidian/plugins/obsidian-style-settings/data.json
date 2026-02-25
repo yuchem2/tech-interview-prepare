@@ -76,5 +76,17 @@
   "baseline-style@@code-style": "code-default",
   "baseline-style@@code-line-numbers": true,
   "baseline-style@@code-scroll": false,
-  "baseline-style@@pdf-page-style": "pdf-seamless"
+  "baseline-style@@pdf-page-style": "pdf-seamless",
+  "baseline-style@@graph-line@@light": "#F3B9FF",
+  "baseline-style@@graph-line@@dark": "#F3B9FF",
+  "baseline-style@@graph-node-tag@@light": "#B79CFF",
+  "baseline-style@@graph-node-tag@@dark": "#B79CFF",
+  "baseline-style@@graph-node-unresolved@@dark": "#A0A0A0",
+  "baseline-style@@graph-node-unresolved@@light": "#4B5563",
+  "baseline-style@@graph-node-attachment@@dark": "#A2A9B0",
+  "baseline-style@@graph-node-attachment@@light": "#1F2937",
+  "baseline-style@@graph-node-focused@@dark": "#F3B9FF",
+  "baseline-style@@graph-node@@dark": "#E0E0E0",
+  "baseline-style@@graph-node@@light": "#1B1B1B",
+  "baseline-style@@graph-node-focused@@light": "#F3B9FF"
 }
