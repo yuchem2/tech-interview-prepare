@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "f41282eebc05037e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a341d5ed9217ee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87bd37d2ac6e0835",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57c0786617fd1cab",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "54283108f2d7b56d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6d087c4c68b63ef5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "25a0407d9d01c402",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "21cc6a92cf4d41c0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3a360819cfe5f565",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4a71edf3a50ed4c3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c6eda01c3d9e3c9c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e39ac416763f0e9a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "smart-random-note:Open Random Note from Search": false
+    }
+  },
+  "active": "54283108f2d7b56d",
+  "lastOpenFiles": [
+    "정보보호/정보보호.md",
+    "운영체제/Proctection.md",
+    "자료구조/자료구조(Data Structure).md",
+    "알고리즘/알고리즘(Algorithm).md",
+    "README.md",
+    "정규 문법(General Grammar).md",
+    "컴파일러/Cross-Complier.md",
+    "컴파일러/정규 언어(General Language).md",
+    "컴파일러/문법(Grammer).md",
+    "컴파일러/String.md",
+    "컴파일러/Lexical Analyzer.md",
+    "컴파일러/Compiler.md",
+    "컴파일러/형식 언어(Formal Language).md",
+    "데이터베이스/릴레이션(Relation).md",
+    "데이터베이스/릴레이션 인스턴스(Relation instance).md",
+    "고전음악의이해/고전 음악.md",
+    "Excalidraw/Drawing 2023-09-20 11.48.12.excalidraw.md",
+    "운영체제/인터럽트(Interrupt).md",
+    "운영체제/운영체제(Operating System).md",
+    "운영체제/Memory Management.md",
+    "컴파일러/문장.md",
+    "형식 언어(Fomal Language).md",
+    "컴파일러/Syntax Analyzer.md",
+    "컴파일러/Reverse String.md",
+    "컴파일러/Language.md",
+    "컴파일러/Language product.md",
+    "컴파일러"
+  ]
+}

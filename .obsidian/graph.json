@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path: Infra  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 1.3,
+  "nodeSizeMultiplier": 2.81796875,
+  "lineSizeMultiplier": 3,
+  "collapse-forces": false,
+  "centerStrength": 0.7,
+  "repelStrength": 11.1979166666667,
+  "linkStrength": 1,
+  "linkDistance": 225,
+  "scale": 0.2726859917360093,
+  "close": true
+}
