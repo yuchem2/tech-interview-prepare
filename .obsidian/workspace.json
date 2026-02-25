@@ -216,11 +216,12 @@
               "title": "각주"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 458.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,7 +240,7 @@
       "markdown-importer:마크다운 형식 불러오기 열기": false
     }
   },
-  "active": "052f67fc369e59cc",
+  "active": "c8f9b710529fef2c",
   "lastOpenFiles": [
     "Infra/Nginx.md",
     "Infra",

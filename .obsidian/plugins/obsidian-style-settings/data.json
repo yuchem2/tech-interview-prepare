@@ -72,5 +72,9 @@
   "baseline-style@@active-line-color": "active-line-color-accent",
   "baseline-style@@unstyled-tags": false,
   "things-style@@no-minimal-title-bar": true,
-  "baseline-style@@nav-item-size": "12px"
+  "baseline-style@@nav-item-size": "12px",
+  "baseline-style@@code-style": "code-default",
+  "baseline-style@@code-line-numbers": true,
+  "baseline-style@@code-scroll": false,
+  "baseline-style@@pdf-page-style": "pdf-seamless"
 }
