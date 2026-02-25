@@ -6,6 +6,7 @@
       {
         "id": "e21e5785b8993c7c",
         "type": "tabs",
+        "dimension": 78.81882770870338,
         "children": [
           {
             "id": "4c12ebf826535ae7",
@@ -23,6 +24,48 @@
             }
           }
         ]
+      },
+      {
+        "id": "8503132af3b4e7aa",
+        "type": "split",
+        "dimension": 21.181172291296626,
+        "children": [
+          {
+            "id": "d140b14062e87f3d",
+            "type": "tabs",
+            "dimension": 27.852586817859677,
+            "children": [
+              {
+                "id": "779936926af65bf2",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "그래프 뷰"
+                }
+              }
+            ]
+          },
+          {
+            "id": "4a502bcc3fd237b5",
+            "type": "tabs",
+            "dimension": 72.14741318214033,
+            "children": [
+              {
+                "id": "052f67fc369e59cc",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -170,13 +213,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 450.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:빠른 전환기 열기": false,
-      "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
@@ -184,10 +225,13 @@
       "bases:새 베이스 생성하기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "smart-random-note:Open Random Note from Search": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "graph:그래프 뷰 열기": false
     }
   },
-  "active": "4c12ebf826535ae7",
+  "active": "76234fef9ce79583",
   "lastOpenFiles": [
     "Infra/Nginx.md",
     "Infra",

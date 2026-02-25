@@ -1,18 +1,24 @@
 {
   "commitMessage": "vault backup: {{date}}",
+  "autoCommitMessage": "vault backup: {{date}}",
+  "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 10,
-  "autoPushInterval": 60,
-  "autoPullInterval": 120,
+  "autoPushInterval": 10,
+  "autoPullInterval": 60,
   "autoPullOnBoot": true,
-  "disablePush": true,
+  "autoCommitOnlyStaged": false,
+  "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
+  "showErrorNotices": true,
+  "disablePopupsForNoChanges": false,
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
   "updateSubmodules": true,
   "syncMethod": "rebase",
-  "customMessageOnAutoBackup": true,
+  "mergeStrategy": "none",
+  "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
@@ -26,8 +32,16 @@
   "submoduleRecurseCheckout": false,
   "gitDir": "",
   "showFileMenu": true,
+  "authorInHistoryView": "initials",
+  "dateInHistoryView": true,
+  "diffStyle": "split",
+  "hunks": {
+    "showSigns": true,
+    "hunkCommands": false,
+    "statusBar": "disabled"
+  },
   "lineAuthor": {
-    "show": true,
+    "show": false,
     "followMovement": "inactive",
     "authorDisplay": "initials",
     "showCommitHash": false,
@@ -47,9 +61,8 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
-    "gutterSpacingFallbackLength": 5,
+    "gutterSpacingFallbackLength": 13,
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
-  },
-  "autoCommitMessage": "vault backup: {{date}}"
+  }
 }

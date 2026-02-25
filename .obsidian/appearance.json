@@ -1,10 +1,12 @@
 {
-  "accentColor": "",
-  "cssTheme": "Shiba Inu",
+  "accentColor": "#8b5cf6",
+  "cssTheme": "Baseline",
   "interfaceFontFamily": "Pretendard Variable,IBM Plex Mono",
   "textFontFamily": "Pretendard Variable",
   "monospaceFontFamily": "IBM Plex Mono",
   "baseFontSizeAction": false,
   "baseFontSize": 18,
-  "theme": "system"
+  "theme": "system",
+  "showViewHeader": true,
+  "showRibbon": true
 }
