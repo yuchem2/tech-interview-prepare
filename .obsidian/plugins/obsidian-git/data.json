@@ -36,7 +36,7 @@
   "dateInHistoryView": true,
   "diffStyle": "split",
   "hunks": {
-    "showSigns": true,
+    "showSigns": false,
     "hunkCommands": false,
     "statusBar": "disabled"
   },

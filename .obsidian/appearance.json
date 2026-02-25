@@ -1,5 +1,5 @@
 {
-  "accentColor": "#8b5cf6",
+  "accentColor": "#f3b9ff",
   "cssTheme": "Baseline",
   "interfaceFontFamily": "Pretendard Variable,IBM Plex Mono",
   "textFontFamily": "Pretendard Variable",
@@ -8,5 +8,6 @@
   "baseFontSize": 18,
   "theme": "system",
   "showViewHeader": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "nativeMenus": false
 }

@@ -58,9 +58,9 @@
   "baseline-style@@hover-ribbon": false,
   "baseline-style@@hover-sidedock": false,
   "baseline-style@@nav-item-active-style": "nav-item-baseline",
-  "baseline-style@@colorful-folders": "colorful-folders-mono",
+  "baseline-style@@colorful-folders": "colorful-folders-dot",
   "baseline-style@@full-item-name": false,
-  "baseline-style@@bold-folders": false,
+  "baseline-style@@bold-folders": true,
   "baseline-style@@large-new-note": false,
   "baseline-style@@nav-indentation-guide-color": "rgba(var(--mono-rgb-100), 0.12)",
   "baseline-style@@plugins-grid-off": false,
@@ -69,5 +69,8 @@
   "baseline-style@@focus-view": false,
   "baseline-style@@mode-switcher-off": false,
   "baseline-style@@active-line-style": "active-line-side",
-  "baseline-style@@active-line-color": "active-line-color-accent"
+  "baseline-style@@active-line-color": "active-line-color-accent",
+  "baseline-style@@unstyled-tags": false,
+  "things-style@@no-minimal-title-bar": true,
+  "baseline-style@@nav-item-size": "12px"
 }
