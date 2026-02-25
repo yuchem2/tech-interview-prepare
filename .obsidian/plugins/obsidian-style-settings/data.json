@@ -88,5 +88,13 @@
   "baseline-style@@graph-node-focused@@dark": "#F3B9FF",
   "baseline-style@@graph-node@@dark": "#E0E0E0",
   "baseline-style@@graph-node@@light": "#1B1B1B",
-  "baseline-style@@graph-node-focused@@light": "#F3B9FF"
+  "baseline-style@@graph-node-focused@@light": "#F3B9FF",
+  "baseline-style@@banner-off": false,
+  "baseline-style@@metadata-style": "metadata-default",
+  "baseline-style@@block-width-off": false,
+  "baseline-style@@blockquote-style": "blockquote-edge",
+  "baseline-style@@blockquote-color@@dark": "#B79CFF",
+  "baseline-style@@blockquote-border-color@@dark": "#B79CFF",
+  "baseline-style@@blockquote-border-thickness": 2,
+  "baseline-style@@blockquote-font-style": "normal"
 }

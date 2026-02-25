@@ -7,7 +7,7 @@
   "baseFontSizeAction": false,
   "baseFontSize": 18,
   "theme": "system",
-  "showViewHeader": true,
+  "showViewHeader": false,
   "showRibbon": true,
   "nativeMenus": false
 }
