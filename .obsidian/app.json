@@ -1,8 +1,10 @@
 {
-  "showLineNumber": false,
+  "showLineNumber": true,
   "readableLineLength": true,
   "showInlineTitle": true,
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "useTab": false,
+  "tabSize": 2
 }

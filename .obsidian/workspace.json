@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pattern/Observer.md",
+                "file": "Pattern/MVC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Observer"
+              "title": "MVC"
             }
           }
         ]
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pattern/Observer.md",
+                "file": "Pattern/MVC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Observer 의 개요"
+              "title": "MVC 의 개요"
             }
           },
           {
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pattern/Observer.md",
+                "file": "Pattern/MVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Observer 의 백링크"
+              "title": "MVC 의 백링크"
             }
           },
           {
@@ -220,12 +220,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pattern/Observer.md",
+                "file": "Pattern/MVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Observer 의 나가는 링크"
+              "title": "MVC 의 나가는 링크"
             }
           },
           {
@@ -267,9 +267,9 @@
   },
   "active": "4c12ebf826535ae7",
   "lastOpenFiles": [
-    "Pattern/MVC.md",
-    "Pattern/Observer.md",
     "Pattern/Proxy.md",
+    "Pattern/Observer.md",
+    "Pattern/MVC.md",
     "Infra/Nginx.md",
     "Infra/Proxy Server.md",
     "styles/Checkbox Style.md",
