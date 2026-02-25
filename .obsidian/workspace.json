@@ -14,13 +14,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pattern/Proxy Pattern.md",
+                "file": "Pattern/Observer.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Proxy Pattern"
+              "title": "Observer"
             }
           }
         ]
@@ -177,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pattern/Proxy Pattern.md",
+                "file": "Pattern/Observer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Proxy Pattern 의 개요"
+              "title": "Observer 의 개요"
             }
           },
           {
@@ -192,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pattern/Proxy Pattern.md",
+                "file": "Pattern/Observer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +211,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Proxy Pattern 의 백링크"
+              "title": "Observer 의 백링크"
             }
           },
           {
@@ -211,12 +220,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pattern/Proxy Pattern.md",
+                "file": "Pattern/Observer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Proxy Pattern 의 나가는 링크"
+              "title": "Observer 의 나가는 링크"
             }
           },
           {
@@ -258,13 +267,14 @@
   },
   "active": "4c12ebf826535ae7",
   "lastOpenFiles": [
-    "pattern/Observer Pattern.md",
-    "pattern/Proxy Pattern.md",
-    "pattern/MVC Pattern.md",
+    "Pattern/MVC.md",
+    "Pattern/Observer.md",
+    "Pattern/Proxy.md",
     "Infra/Nginx.md",
-    "pattern",
+    "Infra/Proxy Server.md",
     "styles/Checkbox Style.md",
-    "Pasted image 20260225175123.png",
+    "styles/Pasted image 20260225175123.png",
+    "Pattern",
     "styles",
     "Infra"
   ]

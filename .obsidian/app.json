@@ -3,5 +3,6 @@
   "readableLineLength": true,
   "showInlineTitle": true,
   "useMarkdownLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true
 }

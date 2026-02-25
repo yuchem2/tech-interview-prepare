@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Infra  ",
@@ -15,14 +15,14 @@
       }
     },
     {
-      "query": "path:pattern  ",
+      "query": "path:Pattern  ",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.2,
   "nodeSizeMultiplier": 1.36328125,
@@ -33,5 +33,5 @@
   "linkStrength": 1,
   "linkDistance": 225,
   "scale": 0.38230109687700137,
-  "close": true
+  "close": false
 }
