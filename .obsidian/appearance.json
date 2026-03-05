@@ -1,8 +1,8 @@
 {
   "accentColor": "#f3b9ff",
   "cssTheme": "Baseline",
-  "interfaceFontFamily": "Pretendard Variable,IBM Plex Mono",
-  "textFontFamily": "Pretendard Variable",
+  "interfaceFontFamily": "Pretendard Variable,Pretendard Regular,IBM Plex Mono",
+  "textFontFamily": "Pretendard Variable,Pretendard Regular",
   "monospaceFontFamily": "IBM Plex Mono",
   "baseFontSizeAction": false,
   "baseFontSize": 18,
